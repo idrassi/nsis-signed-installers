@@ -20,8 +20,8 @@ These signed installers help ensure security in your software distribution pipel
 
 ### Current Release
 
-- [NSIS 3.11 signed installer](releases/download/nsis-3.11/nsis-3.11-setup-signed.exe) (9.8 MB)
-- [SHA256SUMS](releases/download/nsis-3.11/SHA256SUMS)
+- [NSIS 3.11 signed installer](https://github.com/idrassi/nsis-signed-installers/releases/download/nsis-3.11/nsis-3.11-setup-signed.exe) (1.82 MB)
+- [SHA256SUMS](https://github.com/idrassi/nsis-signed-installers/releases/download/nsis-3.11/SHA256SUMS)
 
 ### Previous Releases
 
