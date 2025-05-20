@@ -20,8 +20,8 @@ These signed installers help ensure security in your software distribution pipel
 
 ### Current Release
 
-- [NSIS 3.11 signed installer](releases/nsis-3.11/nsis-3.11-setup-signed.exe) (9.8 MB)
-- [SHA256SUMS](releases/nsis-3.11/SHA256SUMS)
+- [NSIS 3.11 signed installer](releases/download/nsis-3.11/nsis-3.11-setup-signed.exe) (9.8 MB)
+- [SHA256SUMS](releases/download/nsis-3.11/SHA256SUMS)
 
 ### Previous Releases
 
@@ -49,7 +49,6 @@ See [build/build-instructions.md](build/build-instructions.md) for step-by-step 
 
 - All binaries are signed using IDRIX EV Code Signing Certificate (issued by GlobalSign)
   - Fingerprint: `86:E1:D4:26:73:1E:79:11:74:52:F0:90:18:8A:82:84:26:B2:9B:5F`
-- Each release includes detailed signature information: [see SIGNATURES.md](releases/nsis-3.11/SIGNATURES.md)
 - Builds are reproducible following our documented process
 - Source code matches official NSIS releases exactly (no modifications)
 
@@ -70,7 +69,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 ## Author
 
 - **Mounir IDRASSI**
-- Websites: [https://amcrypto.jp](https://amcrypto.jp) & [https://idrix.fr](https://idrix.fr)
+- Website: [https://amcrypto.jp](https://amcrypto.jp)
 - GitHub: [@idrassi](https://github.com/idrassi)
 
 *Last updated: May 20, 2025*
